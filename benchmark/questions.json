@@ -1,0 +1,238 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+    "expected_answer": "Trước 17h00 ngày 20 tháng 8 hằng năm",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 1,
+    "evidence_quote": "phải thực hiện xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh của Bộ Giáo dục và Đào tạo trước 17h00 ngày 20 tháng 8 hằng năm",
+    "filter": null
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+    "expected_answer": "80.000 VNĐ",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 2,
+    "evidence_quote": "Lệ phí làm lại thẻ là 80.000 VNĐ đối với lần đầu và 150.000 VNĐ đối với các lần tiếp theo",
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+    "expected_answer": "Miễn 100% học phí",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 21,
+    "evidence_quote": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng có giấy xác nhận của cơ quan có thẩm quyền",
+    "filter": {
+      "section": "hoc_phi_hoc_bong"
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+    "expected_answer": "Từ 2.00 trở lên (học lực bình thường)",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 7,
+    "evidence_quote": "Sinh vi?n c? h?c l?c b?nh th??ng (CPA t? 2.00 tr?l?n) ???c ??ng k?:\n- Trong m?i h?c k? ch?nh: t?i thi?u 14 t?n ch? v? t?i ?a 24 t?n ch?.",
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+    "expected_answer": "CPA từ 3.60 trở lên và không có môn nào bị điểm dưới C trong kỳ trước và có phê duyệt của Trưởng khoa",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 7,
+    "evidence_quote": "Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ",
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+    "expected_answer": "Thi hộ hoặc nhờ người khác thi hộ, làm bài hộ hoặc nhờ người khác làm bài kiểm tra hộ",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 17,
+    "evidence_quote": "Buộc thôi học: Áp dụng đối với trường hợp thi hộ, nhờ người khác thi hộ, làm bài hộ hoặc nhờ người khác làm bài kiểm tra hộ",
+    "filter": null
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+    "expected_answer": "650.000 VNĐ / tín chỉ lý thuyết",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 19,
+    "evidence_quote": "Nhóm ngành Khoa học Máy tính và Công nghệ Thông tin: 650.000 VNĐ / tín chỉ lý thuyết",
+    "filter": {
+      "section": "hoc_phi_hoc_bong"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+    "expected_answer": "04 đợt vào các tháng 3, 6, 9 và 12",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 27,
+    "evidence_quote": "Nhà trường tổ chức xét tốt nghiệp chính thức 04 đợt trong một năm học vào các tháng: Tháng 3, Tháng 6, Tháng 9 và Tháng 12",
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+    "expected_answer": "Từ tuần thứ 3 đến hết tuần thứ 6 của học kỳ chính",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 9,
+    "evidence_quote": "Học kỳ chính: Sinh viên được nộp đơn xin rút học phần từ tuần thứ 3 đến hết tuần thứ 6 của học kỳ",
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+    "expected_answer": "Chênh lệch từ 0.5 điểm trở lên trên thang điểm 10",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 18,
+    "evidence_quote": "Điểm phúc khảo được công nhận nếu chênh lệch từ 0.5 điểm trở lên trên thang điểm 10 so với điểm chấm ban đầu",
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+    "expected_answer": "Khi tổng tín chỉ học lại vượt quá 5% tổng tín chỉ chương trình, hoặc từng bị kỷ luật từ mức cảnh cáo cấp trường trở lên",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 28,
+    "evidence_quote": "Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo",
+    "filter": {
+      "section": "tot_nghiep_bao_luu"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+    "expected_answer": "Tối thiểu 50% tổng số tín chỉ của chương trình đào tạo",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 5,
+    "evidence_quote": "Sinh viên chuyển đến từ trường khác phải tích lũy tối thiểu 50% tổng số tín chỉ của chương trình đào tạo tại Nhà trường mới được xét cấp bằng tốt nghiệp",
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+    "expected_answer": "10.000.000 VNĐ / bài báo",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 30,
+    "evidence_quote": "được Nhà trường thưởng nóng 10.000.000 VNĐ/bài báo và ưu tiên xét học bổng tài trợ doanh nghiệp",
+    "filter": {
+      "section": "nckh_ngoai_khoa"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "type": "dien_dat_lai",
+    "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+    "expected_answer": "Bắt buộc phải đăng ký học lại học phần đó ở các học kỳ tiếp theo cho đến khi đạt điểm D trở lên",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 10,
+    "evidence_quote": "bắt buộc phải đăng ký học lại học phần đó ở các học kỳ tiếp theo cho đến khi đạt điểm D trở lên",
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "type": "truc_tiep",
+    "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+    "expected_answer": "Dưới 1.20 đối với học kỳ đầu tiên của khóa học",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 15,
+    "evidence_quote": "Điểm trung bình học kỳ GPA dưới 1.20 đối với học kỳ đầu tiên của khóa học",
+    "filter": {
+      "section": "danh_gia_hoc_vu"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+    "expected_answer": "CPA từ 2.50 trở lên",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 11,
+    "evidence_quote": "Điểm trung bình tích lũy CPA của chương trình thứ nhất đạt từ 2.50 trở lên và sinh viên không thuộc diện bị cảnh báo học vụ",
+    "filter": null
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+    "expected_answer": "GPA từ 3.60 trở lên và điểm rèn luyện từ 90 điểm trở lên",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 22,
+    "evidence_quote": "Mức học bổng Xuất sắc: Dành cho sinh viên có điểm trung bình học kỳ GPA từ 3.60 trở lên và điểm rèn luyện ĐRL từ 90 điểm trở lên",
+    "filter": {
+      "section": "hoc_phi_hoc_bong"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "type": "dien_dat_lai",
+    "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+    "expected_answer": "Nhận điểm I (Incomplete), phải thi bù trong học kỳ chính gần nhất tiếp theo, nếu không thi thì tự động chuyển thành điểm F sau 01 học kỳ",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 14,
+    "evidence_quote": "H?c ph?n ???c ch?p thu?n ho?n thi s? nh?n ?i?m t?m th?i l? ?i?m I (Incomplete).\n- Sinh vi?n c? ?i?mI ph?i ??ng k? d? thi b? v?o ??t thi c?a h?c k? ch?nh g?n nh?t ti?p theo c? t? ch?c thi m?n ??.\n- Sau th?i h?n 01h?c k? ch?nh ti?p theo, n?u sinh vi?n kh?ng d? thi b?, ?i?m I s? t? ??ng chuy?n th?nh ?i?m F.",
+    "filter": {
+      "section": "danh_gia_hoc_vu"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "type": "truc_tiep",
+    "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+    "expected_answer": "GPA từ 3.20/4.0 trở lên (cấp Tỉnh/Thành phố cần từ 3.40)",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 32,
+    "evidence_quote": "Học tập tốt: Điểm trung bình học tập GPA năm học đạt từ 3.20/4.0 trở lên (hoặc từ 3.40 đối với cấp Tỉnh/Thành phố)",
+    "filter": {
+      "section": "nckh_ngoai_khoa"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "type": "dieu_kien_ngoai_le",
+    "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+    "expected_answer": "Không bắt buộc - sinh viên có thể chọn học phần tự chọn khác tương đương trong cùng nhóm kiến thức để thay thế",
+    "gold_source_id": "handbook_sv_2025",
+    "gold_page": 10,
+    "evidence_quote": "Đối với học phần tự chọn bị điểm F, sinh viên có thể chọn học lại chính học phần đó hoặc chọn học phần tự chọn khác tương đương trong cùng nhóm kiến thức để thay thế",
+    "filter": null
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "A": {
+    "config": {
+      "chunking": "fixed_size",
+      "chunk_size": 500,
+      "overlap": 50
+    },
+    "chunk_count": 102,
+    "avg_chars": 446.7,
+    "min_chars": 51,
+    "max_chars": 500,
+    "ingest_time_s": 0.0,
+    "cost_usd": 0.0
+  },
+  "B": {
+    "config": {
+      "chunking": "by_paragraph",
+      "chunk_size": 600,
+      "overlap": 0
+    },
+    "chunk_count": 96,
+    "avg_chars": 437.8,
+    "min_chars": 181,
+    "max_chars": 598,
+    "ingest_time_s": 0.001,
+    "cost_usd": 0.0
+  },
+  "C": {
+    "config": {
+      "chunking": "by_paragraph",
+      "chunk_size": 600,
+      "overlap": 0,
+      "filter": true
+    },
+    "chunk_count": 96,
+    "avg_chars": 437.8,
+    "min_chars": 181,
+    "max_chars": 598,
+    "ingest_time_s": 0.001,
+    "cost_usd": 0.0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "source_id": "handbook_sv_2025",
+  "title": "Sổ tay Sinh viên và Quy chế Đào tạo Đại học Chính quy năm học 2025-2026",
+  "source_path": "data/handbook_sv_2025.pdf",
+  "license_or_permission": "Tài liệu học thuật nội bộ mở cho mục đích đào tạo và nghiên cứu (Creative Commons Attribution-NonCommercial 4.0 International - CC BY-NC 4.0)",
+  "accessed_at": "2026-11-14T00:00:00Z",
+  "snapshot_version": "2025.1.0",
+  "effective_date": "2025-09-01",
+  "total_physical_pages": 32,
+  "content_pages_count": 32,
+  "content_pages_list": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "page_counting_rule": "Toàn bộ 32 trang vật lý đều là trang nội dung hữu ích theo từng Điều quy chế cụ thể; không bao gồm trang bìa rỗng hoặc phụ lục chỉ có danh mục ngoài lề. Thống kê thực tế đạt trung bình 1.109,8 ký tự chuẩn hóa/trang (tối thiểu 937, tối đa 1.394 ký tự). Do tệp PDF gốc gặp lỗi mã hóa font tiếng Việt khi trích xuất trực tiếp, pipeline đọc từ tệp JSON tương ứng đã chuẩn hóa và khớp toàn bộ nội dung, số trang 1–32 với nguồn.",
+  "character_statistics": {
+    "total_normalized_characters": 35513,
+    "min_characters_per_page": 937,
+    "max_characters_per_page": 1394,
+    "avg_characters_per_page": 1109.8
+  },
+  "sections": [
+    {
+      "section_id": "tuyen_sinh_nhap_hoc",
+      "title": "Chương I: Quy Chế Tuyển Sinh và Thủ Tục Nhập Học",
+      "start_page": 1,
+      "end_page": 5
+    },
+    {
+      "section_id": "chuong_trinh_tin_chi",
+      "title": "Chương II: Chương Trình Đào Tạo và Đăng Ký Học Phần Tín Chỉ",
+      "start_page": 6,
+      "end_page": 11
+    },
+    {
+      "section_id": "danh_gia_hoc_vu",
+      "title": "Chương III: Quy Định Đánh Giá Học Phần và Xử Lý Học Vụ",
+      "start_page": 12,
+      "end_page": 18
+    },
+    {
+      "section_id": "hoc_phi_hoc_bong",
+      "title": "Chương IV: Chính Sách Học Phí, Miễn Giảm và Học Bổng Khuyến Khích",
+      "start_page": 19,
+      "end_page": 24
+    },
+    {
+      "section_id": "tot_nghiep_bao_luu",
+      "title": "Chương V: Quy Định Tạm Dừng, Bảo Lưu và Xét Tốt Nghiệp",
+      "start_page": 25,
+      "end_page": 29
+    },
+    {
+      "section_id": "nckh_ngoai_khoa",
+      "title": "Chương VI: Hoạt Động Nghiên Cứu Khoa Học và Rèn Luyện Sinh Viên",
+      "start_page": 30,
+      "end_page": 32
+    }
+  ]
+}

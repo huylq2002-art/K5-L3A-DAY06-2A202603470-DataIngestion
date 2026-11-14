@@ -1,0 +1,2636 @@
+{
+  "A": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p001_c000",
+          "score": 0.8165,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ĐIỀU 1: QUY TRÌNH TIẾP NHẬN TÂN SINH VIÊN VÀ XÁC NHẬN NHẬP HỌC\n1. Thí sinh trúng tuyển vào các ngành đào tạo đại học chính quy phải thực hiện xác nhận nhập học trực tuyến trên cổng thông tin tuyển sin",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.6471,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ài trợ có quy định riêng loại trừ.\n4. Thông tin và thời hạn nộp hồ sơ xin học bổng doanh nghiệp được đăng tải công khai trên website Phòng Công tác Sinh viên trước thời hạn nhận đơn tối thiểu 15 ngày.",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c000",
+          "score": 0.6236,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 8: CÁC GIAI ĐOẠN ĐĂNG KÝ HỌC PHẦN VÀ XỬ LÝ HỦY LỚP HỌC\n1. Việc đăng ký học phần được thực hiện trực tuyến trên cổng thông tin sinh viên theo 3 giai đoạn:\n- Giai đoạn 1 (Đăng ký nguyện vọng): Diễn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.7326,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ia các kỳ thi giữa kỳ và cuối kỳ. Thí sinh không có thẻ sinh viên hoặc giấy tờ tùy thân hợp lệ có ảnh sẽ không được vào phòng thi.\n- Sử dụng làm thẻ ngân hàng thanh toán học phí và nhận học bổng từ Nh",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p003_c002",
+          "score": 0.6452,
+          "page": 3,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "viên được ngân sách Nhà nước hỗ trợ 30% mức đóng, sinh viên tự đóng 70% còn lại. Sinh viên đã có thẻ BHYT theo đối tượng ưu tiên (thân nhân công an, quân đội, hộ nghèo) phải nộp bản sao thẻ còn hạn tr",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.601,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "tín chỉ thực hành.\n- Nhóm ngành Kinh tế, Quản trị Kinh doanh và Ngôn ngữ: 520.000 VNĐ / tín chỉ.\n2. Thời hạn nộp học phí:\n- Học kỳ chính: Sinh viên phải hoàn thành đóng học phí trước tuần thứ 8 của họ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p021_c000",
+          "score": 0.8036,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 21: CÁC ĐỐI TƯỢNG ĐƯỢC HƯỞNG CHÍNH SÁCH MIỄN, GIẢM HỌC PHÍ\n1. Đối tượng được miễn 100% học phí bao gồm:\n- Sinh viên là con của liệt sĩ, thương binh nặng, người hưởng chính sách như thương binh có",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.7317,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "người dân tộc thiểu số rất ít người ở vùng có điều kiện kinh tế - xã hội khó khăn hoặc đặc biệt khó khăn.\n2. Đối tượng được giảm 70% học phí:\n- Sinh viên theo học các ngành nghệ thuật truyền thống, cá",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p020_c000",
+          "score": 0.6848,
+          "page": 20,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 20: ĐIỀU KIỆN VÀ THỦ TỤC XIN GIA HẠN THỜI GIAN NỘP HỌC PHÍ\n1. Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn đột xuất (tai nạn, thiên tai, hỏa hoạn, biến cố gia đình) được phép làm đơn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8569,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p016_c001",
+          "score": 0.833,
+          "page": 16,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ạm dừng học tập được Hiệu trưởng phê duyệt.\n- Điểm trung bình tích lũy CPA đạt dưới 1.00 sau 02 năm học đầu tiên.\n2. Quy trình xử lý buộc thôi học:\n- Phòng Đào tạo lập danh sách dự kiến buộc thôi học ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7864,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.7078,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c002",
+          "score": 0.6925,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ện tốt nghiệp thì được phép đăng ký đúng số tín chỉ còn thiếu mà không bị ràng buộc bởi mức tối thiểu 14 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p010_c002",
+          "score": 0.6819,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": ": Sinh viên phải đóng học phí theo số tín chỉ thực tế của học phần đăng ký lại theo mức quy định hiện hành tại thời điểm học lại.",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p017_c002",
+          "score": 0.7303,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ộ, làm bài hộ hoặc nhờ người khác làm bài kiểm tra hộ. Cả người thi hộ và người nhờ thi hộ (nếu là sinh viên của trường) đều bị buộc thôi học ngay lập tức và thông báo về địa phương.",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p017_c001",
+          "score": 0.7027,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ng hoặc thiết bị thu phát sóng trong giờ thi (kể cả chưa sử dụng), hoặc chép bài của người khác. Thí sinh bị cảnh cáo bị trừ 50% điểm bài thi học phần đó.\n- Đình chỉ thi: Áp dụng đối với thí sinh tái ",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p014_c000",
+          "score": 0.6549,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 14: QUY TRÌNH XIN HOÃN THI CUỐI KỲ VÀ XỬ LÝ CÁC TRƯỜNG HỢP VẮNG THI\n1. Sinh viên có lý do chính đáng bất khả kháng (ốm đau cấp tính phải nằm viện, tai nạn, tang gia tứ thân phụ mẫu) không thể tha",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c000",
+          "score": 0.8208,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 19: CÁCH TÍNH HỌC PHÍ THEO TÍN CHỈ VÀ THỜI HẠN HOÀN THÀNH NGHĨA VỤ HỌC PHÍ\n1. Học phí được tính dựa trên tổng số tín chỉ mà sinh viên đăng ký trong học kỳ nhân với đơn giá của một tín chỉ theo từ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p006_c000",
+          "score": 0.6742,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 6: THỜI GIAN ĐÀO TẠO VÀ KHỐI LƯỢNG KIẾN THỨC CHƯƠNG TRÌNH CHUẨN\n1. Chương trình đào tạo đại học chính quy được thiết kế theo hệ thống tín chỉ:\n- Khối ngành Kỹ thuật và Công nghệ: khối lượng kiến ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.6041,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "cấp Trường được phê duyệt được cấp kinh phí hỗ trợ ban đầu từ 5.000.000 VNĐ đến 15.000.000 VNĐ tùy thuộc quy mô và dự toán.\n4. Khen thưởng và quyền lợi học vụ:\n- Sinh viên đạt giải Nhất, Nhì NCKH cấp ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p027_c002",
+          "score": 0.788,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "a đạt từ loại Trung bình (từ 50 điểm) trở lên.\n- Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên.\n2. N",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p029_c000",
+          "score": 0.6944,
+          "page": 29,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 29: QUY TRÌNH CẤP CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI VÀ NHẬN BẰNG CHÍNH THỨC\n1. Sau khi Hội đồng Xét tốt nghiệp Nhà trường thông qua danh sách và Hiệu trưởng ký Quyết định công nhận tốt nghiệp, sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.68,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "i trường chuyển đến trong cùng năm tuyển sinh.\n- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Khô",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p009_c000",
+          "score": 0.8499,
+          "page": 9,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 9: THỜI HẠN VÀ ĐIỀU KIỆN RÚT BỚT HỌC PHẦN ĐÃ ĐĂNG KÝ\n1. Sau khi kết thúc giai đoạn điều chỉnh đăng ký, sinh viên được quyền xin rút học phần nếu cảm thấy không đảm bảo khả năng hoàn thành môn học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c002",
+          "score": 0.7619,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "tuần thứ 12 của mỗi học kỳ chính. Hội đồng xét duyệt sẽ thông báo kết quả trước khi học kỳ mới bắt đầu ít nhất 2 tuần.\n4. Khi được chấp thuận chuyển ngành, sinh viên được công nhận các học phần tương ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c001",
+          "score": 0.7562,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "học và giảng viên cụ thể.\n- Giai đoạn 3 (Đăng ký điều chỉnh, thêm/hủy môn): Diễn ra trong 02 tuần đầu tiên của học kỳ chính (01 tuần đầu của học kỳ hè).\n2. Lớp học phần có số lượng sinh viên đăng ký d",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p012_c000",
+          "score": 0.6449,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 12: THANG ĐIỂM ĐÁNH GIÁ, CÔNG THỨC TÍNH ĐIỂM HỌC PHẦN VÀ QUY ĐỔI\n1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân) theo công thức trọng số:\n- Điểm học phầ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p012_c002",
+          "score": 0.6383,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "1.5 điểm thang 4 - Xếp loại Trung bình yếu).\n- Từ 4.0 đến 4.9: Điểm D (Tương đương 1.0 điểm thang 4 - Xếp loại Đạt / Yếu).\n- Dưới 4.0: Điểm F (Tương đương 0.0 điểm thang 4 - Xếp loại Không đạt / Kém).",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p012_c001",
+          "score": 0.628,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "iểm chữ và thang điểm 4:\n- Từ 8.5 đến 10.0: Điểm A (Tương đương 4.0 điểm thang 4 - Xếp loại Xuất sắc).\n- Từ 8.0 đến 8.4: Điểm B+ (Tương đương 3.5 điểm thang 4 - Xếp loại Giỏi).\n- Từ 7.0 đến 7.9: Điểm ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.7466,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "hoặc Giỏi sẽ bị giảm đi một bậc (từ Xuất sắc xuống Giỏi, từ Giỏi xuống Khá) nếu vi phạm vào một trong hai trường hợp sau:\n- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng s",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.6773,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "i trường chuyển đến trong cùng năm tuyển sinh.\n- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Khô",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.6557,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.7586,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "i trường chuyển đến trong cùng năm tuyển sinh.\n- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Khô",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p026_c000",
+          "score": 0.7143,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 26: MIỄN TRỪ HỌC PHẦN VÀ CÔNG NHẬN CHUYỂN ĐỔI TÍN CHỈ TƯƠNG ĐƯƠNG\n1. Sinh viên đã học và tích lũy các học phần tại cơ sở đào tạo đại học khác hoặc các chương trình đào tạo khác của Nhà trường đượ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.7076,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "hoặc Giỏi sẽ bị giảm đi một bậc (từ Xuất sắc xuống Giỏi, từ Giỏi xuống Khá) nếu vi phạm vào một trong hai trường hợp sau:\n- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng s",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.7569,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "cấp Trường được phê duyệt được cấp kinh phí hỗ trợ ban đầu từ 5.000.000 VNĐ đến 15.000.000 VNĐ tùy thuộc quy mô và dự toán.\n4. Khen thưởng và quyền lợi học vụ:\n- Sinh viên đạt giải Nhất, Nhì NCKH cấp ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p030_c002",
+          "score": 0.6061,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "Scopus/WoS được Nhà trường thưởng nóng 10.000.000 VNĐ/bài báo và ưu tiên xét học bổng tài trợ doanh nghiệp.",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5792,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "nh viên hoặc nộp trực tiếp tại Phòng Khảo thí và Đảm bảo chất lượng.\n- Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi thay đổi tăng lên, sinh viên sẽ được hoàn lại 100% lệ phí ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7779,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p026_c001",
+          "score": 0.6761,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "hận của Bộ môn phụ trách môn học.\n- Điểm học phần đạt từ điểm C (hoặc từ 5.5 điểm thang 10) trở lên.\n2. Tổng số tín chỉ được công nhận và chuyển đổi tối đa không được vượt quá 50% tổng số tín chỉ của ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p031_c000",
+          "score": 0.6738,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 31: KHUNG TIÊU CHÍ VÀ THANG ĐIỂM ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN\n1. Điểm rèn luyện (ĐRL) được đánh giá theo thang điểm 100 cho từng học kỳ chính dựa trên 5 tiêu chí:\n- Tiêu chí 1: Đánh giá v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.7689,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "16 tín chỉ.\n- Mức 2: Cảnh báo nghiêm trọng khi sinh viên đã bị cảnh báo mức 1 ở kỳ trước mà điểm GPA kỳ này tiếp tục dưới 1.60, hoặc CPA tích lũy dưới 1.80.\n- Mức 3: Cảnh báo mức cao nhất khi sinh viê",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p015_c000",
+          "score": 0.7127,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 15: CÁC MỨC ĐỘ CẢNH BÁO HỌC VỤ VÀ TIÊU CHÍ ÁP DỤNG\n1. Cảnh báo học vụ được xử lý theo từng học kỳ chính nhằm giúp sinh viên nhận biết tình trạng học tập yếu kém để kịp thời khắc phục. Có 3 mức cả",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.6881,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8228,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p016_c001",
+          "score": 0.8057,
+          "page": 16,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ạm dừng học tập được Hiệu trưởng phê duyệt.\n- Điểm trung bình tích lũy CPA đạt dưới 1.00 sau 02 năm học đầu tiên.\n2. Quy trình xử lý buộc thôi học:\n- Phòng Đào tạo lập danh sách dự kiến buộc thôi học ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7773,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c000",
+          "score": 0.7872,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 22: TIÊU CHUẨN VÀ ĐỊNH MỨC HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP TỪNG HỌC KỲ\n1. Học bổng khuyến khích học tập được xét và cấp theo từng học kỳ chính (không xét cho học kỳ hè) cho sinh viên có kết quả học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.716,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "n. Mức học bổng tương đương 120% định mức học phí chuẩn của ngành học.\n- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c002",
+          "score": 0.7087,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "nh viên phải đăng ký và hoàn thành tối thiểu 15 tín chỉ trong học kỳ xét học bổng (không tính các tín chỉ học lại, học cải thiện, học phần GDTC và GDQP-AN).\n- Trong học kỳ đó không có học phần nào bị ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p014_c001",
+          "score": 0.831,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "làm việc kể từ ngày diễn ra ca thi.\n- Đơn nộp quá thời hạn 03 ngày sẽ không được xem xét giải quyết.\n3. Xử lý học phần hoãn thi:\n- Học phần được chấp thuận hoãn thi sẽ nhận điểm tạm thời là điểm I (In",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p001_c002",
+          "score": 0.7582,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "đối tượng hoặc khu vực (nếu có để hưởng chính sách điểm ưu tiên).\n3. Thời hạn nộp bổ sung các giấy tờ còn thiếu không được vượt quá 30 ngày kể từ ngày tựu trường. Sau 30 ngày, sinh viên chưa hoàn thiệ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c000",
+          "score": 0.7494,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 18: TRÌNH TỰ NỘP ĐƠN PHÚC KHẢO VÀ THỜI HẠN CÔNG BỐ ĐIỂM PHÚC KHẢO\n1. Sinh viên có quyền nộp đơn xin phúc khảo điểm thi kết thúc học phần nếu có nghi vấn về kết quả chấm thi.\n2. Trình tự và thủ tụ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p032_c000",
+          "score": 0.7239,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 32: BỘ TIÊU CHUẨN XÉT CHỌN DANH HIỆU SINH VIÊN 5 TỐT CÁC CẤP\n1. Danh hiệu \"Sinh viên 5 tốt\" là danh hiệu thi đua cao quý của Hội Sinh viên Việt Nam trao tặng hằng năm cho sinh viên đạt đủ 5 tiêu ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.7087,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p026_c002",
+          "score": 0.6857,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "điểm A (4.0) cho các học phần ngoại ngữ, tin học đại cương tương ứng theo bảng quy đổi của Trường.\n4. Điểm của các học phần được công nhận tương đương sẽ được tính vào điểm trung bình chung tích lũy C",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7945,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p010_c001",
+          "score": 0.6537,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "hế.\n2. Học cải thiện điểm:\n- Sinh viên có học phần đạt điểm D hoặc D+ được phép đăng ký học cải thiện để nâng cao điểm trung bình tích lũy. Điểm từ C trở lên không được phép học cải thiện.\n- Khi học c",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6497,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "hoặc Giỏi sẽ bị giảm đi một bậc (từ Xuất sắc xuống Giỏi, từ Giỏi xuống Khá) nếu vi phạm vào một trong hai trường hợp sau:\n- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng s",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    }
+  ],
+  "B": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p001_c000",
+          "score": 0.8165,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ĐIỀU 1: QUY TRÌNH TIẾP NHẬN TÂN SINH VIÊN VÀ XÁC NHẬN NHẬP HỌC\n1. Thí sinh trúng tuyển vào các ngành đào tạo đại học chính quy phải thực hiện xác nhận nhập học trực tuyến trên cổng thông tin tuyển sin",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.6782,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "4. Thông tin và thời hạn nộp hồ sơ xin học bổng doanh nghiệp được đăng tải công khai trên website Phòng Công tác Sinh viên trước thời hạn nhận đơn tối thiểu 15 ngày.",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c000",
+          "score": 0.6236,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 8: CÁC GIAI ĐOẠN ĐĂNG KÝ HỌC PHẦN VÀ XỬ LÝ HỦY LỚP HỌC\n1. Việc đăng ký học phần được thực hiện trực tuyến trên cổng thông tin sinh viên theo 3 giai đoạn:\n- Giai đoạn 1 (Đăng ký nguyện vọng): Diễn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.7899,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Sử dụng làm thẻ ngân hàng thanh toán học phí và nhận học bổng từ Nhà trường.\n3. Sinh viên làm mất hoặc hỏng thẻ phải nộp đơn xin cấp lại tại Trung tâm Hỗ trợ Sinh viên. Lệ phí làm lại thẻ là 80.000 ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5207,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.4916,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Học kỳ chính: Sinh viên phải hoàn thành đóng học phí trước tuần thứ 8 của học kỳ.\n- Học kỳ hè: Sinh viên phải hoàn thành đóng học phí trước tuần thứ 2 của học kỳ.\n3. Sinh viên nợ học phí sau thời hạ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p021_c000",
+          "score": 0.8036,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 21: CÁC ĐỐI TƯỢNG ĐƯỢC HƯỞNG CHÍNH SÁCH MIỄN, GIẢM HỌC PHÍ\n1. Đối tượng được miễn 100% học phí bao gồm:\n- Sinh viên là con của liệt sĩ, thương binh nặng, người hưởng chính sách như thương binh có",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.7002,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên theo học các ngành nghệ thuật truyền thống, các chuyên ngành nhã nhạc cung đình, chèo, tuồng, cải lương hoặc các ngành nặng nhọc, độc hại theo danh mục quy định.\n3. Đối tượng được giảm 50%",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p020_c000",
+          "score": 0.6848,
+          "page": 20,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 20: ĐIỀU KIỆN VÀ THỦ TỤC XIN GIA HẠN THỜI GIAN NỘP HỌC PHÍ\n1. Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn đột xuất (tai nạn, thiên tai, hỏa hoạn, biến cố gia đình) được phép làm đơn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8569,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.8476,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7864,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.7197,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.7078,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.6565,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p017_c002",
+          "score": 0.684,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Buộc thôi học: Áp dụng đối với trường hợp thi hộ, nhờ người khác thi hộ, làm bài hộ hoặc nhờ người khác làm bài kiểm tra hộ. Cả người thi hộ và người nhờ thi hộ (nếu là sinh viên của trường) đều bị ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p017_c000",
+          "score": 0.6586,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 17: HÌNH THỨC XỬ LÝ KỶ LUẬT ĐỐI VỚI HÀNH VI GIAN LẬN THI CỬ\n1. Sinh viên vi phạm quy chế trong phòng thi sẽ bị lập biên bản và xử lý kỷ luật theo các mức độ:\n- Khiển trách: Áp dụng đối với thí si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p014_c000",
+          "score": 0.6549,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 14: QUY TRÌNH XIN HOÃN THI CUỐI KỲ VÀ XỬ LÝ CÁC TRƯỜNG HỢP VẮNG THI\n1. Sinh viên có lý do chính đáng bất khả kháng (ốm đau cấp tính phải nằm viện, tai nạn, tang gia tứ thân phụ mẫu) không thể tha",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c000",
+          "score": 0.8208,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 19: CÁCH TÍNH HỌC PHÍ THEO TÍN CHỈ VÀ THỜI HẠN HOÀN THÀNH NGHĨA VỤ HỌC PHÍ\n1. Học phí được tính dựa trên tổng số tín chỉ mà sinh viên đăng ký trong học kỳ nhân với đơn giá của một tín chỉ theo từ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p006_c000",
+          "score": 0.6742,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 6: THỜI GIAN ĐÀO TẠO VÀ KHỐI LƯỢNG KIẾN THỨC CHƯƠNG TRÌNH CHUẨN\n1. Chương trình đào tạo đại học chính quy được thiết kế theo hệ thống tín chỉ:\n- Khối ngành Kỹ thuật và Công nghệ: khối lượng kiến ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p026_c000",
+          "score": 0.5337,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 26: MIỄN TRỪ HỌC PHẦN VÀ CÔNG NHẬN CHUYỂN ĐỔI TÍN CHỈ TƯƠNG ĐƯƠNG\n1. Sinh viên đã học và tích lũy các học phần tại cơ sở đào tạo đại học khác hoặc các chương trình đào tạo khác của Nhà trường đượ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p027_c002",
+          "score": 0.764,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên.\n2. Nhà trường tổ chức xét tốt nghiệp chính thức 04 ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p029_c000",
+          "score": 0.6944,
+          "page": 29,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 29: QUY TRÌNH CẤP CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI VÀ NHẬN BẰNG CHÍNH THỨC\n1. Sau khi Hội đồng Xét tốt nghiệp Nhà trường thông qua danh sách và Hiệu trưởng ký Quyết định công nhận tốt nghiệp, sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p006_c002",
+          "score": 0.6835,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. Nhà trường có thể tổ chức thêm 01 học kỳ phụ (học kỳ hè) với thời lượng 5 đến 7 tuần học và 1 tuần thi. Học kỳ hè không bắt buộc, sinh viên tự nguyện đăng ký để học vượt, học lại hoặc cải thiện điể",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p009_c000",
+          "score": 0.8499,
+          "page": 9,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 9: THỜI HẠN VÀ ĐIỀU KIỆN RÚT BỚT HỌC PHẦN ĐÃ ĐĂNG KÝ\n1. Sau khi kết thúc giai đoạn điều chỉnh đăng ký, sinh viên được quyền xin rút học phần nếu cảm thấy không đảm bảo khả năng hoàn thành môn học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p006_c002",
+          "score": 0.7748,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. Nhà trường có thể tổ chức thêm 01 học kỳ phụ (học kỳ hè) với thời lượng 5 đến 7 tuần học và 1 tuần thi. Học kỳ hè không bắt buộc, sinh viên tự nguyện đăng ký để học vượt, học lại hoặc cải thiện điể",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c001",
+          "score": 0.7543,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Giai đoạn 3 (Đăng ký điều chỉnh, thêm/hủy môn): Diễn ra trong 02 tuần đầu tiên của học kỳ chính (01 tuần đầu của học kỳ hè).\n2. Lớp học phần có số lượng sinh viên đăng ký dưới 20 sinh viên (đối với ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p012_c000",
+          "score": 0.6449,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 12: THANG ĐIỂM ĐÁNH GIÁ, CÔNG THỨC TÍNH ĐIỂM HỌC PHẦN VÀ QUY ĐỔI\n1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân) theo công thức trọng số:\n- Điểm học phầ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p012_c001",
+          "score": 0.5976,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Từ 8.0 đến 8.4: Điểm B+ (Tương đương 3.5 điểm thang 4 - Xếp loại Giỏi).\n- Từ 7.0 đến 7.9: Điểm B (Tương đương 3.0 điểm thang 4 - Xếp loại Khá).\n- Từ 6.5 đến 6.9: Điểm C+ (Tương đương 2.5 điểm thang ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5864,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi thay đổi tăng lên, sinh viên sẽ được hoàn lại 100% lệ phí phúc khảo.\n3. Tổ chức chấm phúc khảo:\n- Trưởng phòng Khảo thí chỉ địn",
+          "is_hit": true
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6903,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.6701,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Không cho phép chuyển trường đối với sinh viên năm",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.6562,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.7665,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Không cho phép chuyển trường đối với sinh viên năm",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.7161,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p026_c000",
+          "score": 0.7143,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 26: MIỄN TRỪ HỌC PHẦN VÀ CÔNG NHẬN CHUYỂN ĐỔI TÍN CHỈ TƯƠNG ĐƯƠNG\n1. Sinh viên đã học và tích lũy các học phần tại cơ sở đào tạo đại học khác hoặc các chương trình đào tạo khác của Nhà trường đượ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.7772,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "4. Khen thưởng và quyền lợi học vụ:\n- Sinh viên đạt giải Nhất, Nhì NCKH cấp Trường được cộng điểm rèn luyện (tương ứng 15 và 10 điểm) và được xem xét thay thế khóa luận tốt nghiệp (tương đương 6 đến 1",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.5488,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p019_c000",
+          "score": 0.5377,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 19: CÁCH TÍNH HỌC PHÍ THEO TÍN CHỈ VÀ THỜI HẠN HOÀN THÀNH NGHĨA VỤ HỌC PHÍ\n1. Học phí được tính dựa trên tổng số tín chỉ mà sinh viên đăng ký trong học kỳ nhân với đơn giá của một tín chỉ theo từ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7779,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p010_c001",
+          "score": 0.6791,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Sinh viên có học phần đạt điểm D hoặc D+ được phép đăng ký học cải thiện để nâng cao điểm trung bình tích lũy. Điểm từ C trở lên không được phép học cải thiện.\n- Khi học cải thiện, điểm của lần học ",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p031_c000",
+          "score": 0.6738,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 31: KHUNG TIÊU CHÍ VÀ THANG ĐIỂM ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN\n1. Điểm rèn luyện (ĐRL) được đánh giá theo thang điểm 100 cho từng học kỳ chính dựa trên 5 tiêu chí:\n- Tiêu chí 1: Đánh giá v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.7682,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Mức 2: Cảnh báo nghiêm trọng khi sinh viên đã bị cảnh báo mức 1 ở kỳ trước mà điểm GPA kỳ này tiếp tục dưới 1.60, hoặc CPA tích lũy dưới 1.80.\n- Mức 3: Cảnh báo mức cao nhất khi sinh viên bị cảnh bá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p015_c000",
+          "score": 0.7127,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 15: CÁC MỨC ĐỘ CẢNH BÁO HỌC VỤ VÀ TIÊU CHÍ ÁP DỤNG\n1. Cảnh báo học vụ được xử lý theo từng học kỳ chính nhằm giúp sinh viên nhận biết tình trạng học tập yếu kém để kịp thời khắc phục. Có 3 mức cả",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6896,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8228,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.7971,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7773,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c000",
+          "score": 0.7872,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 22: TIÊU CHUẨN VÀ ĐỊNH MỨC HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP TỪNG HỌC KỲ\n1. Học bổng khuyến khích học tập được xét và cấp theo từng học kỳ chính (không xét cho học kỳ hè) cho sinh viên có kết quả học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.7726,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.7067,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p014_c001",
+          "score": 0.8086,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Học phần được chấp thuận hoãn thi sẽ nhận điểm tạm thời là điểm I (Incomplete).\n- Sinh viên có điểm I phải đăng ký dự thi bù vào đợt thi của học kỳ chính gần nhất tiếp theo có tổ chức thi môn đó.\n- ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p001_c002",
+          "score": 0.7665,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "3. Thời hạn nộp bổ sung các giấy tờ còn thiếu không được vượt quá 30 ngày kể từ ngày tựu trường. Sau 30 ngày, sinh viên chưa hoàn thiện hồ sơ sẽ bị tạm dừng quyền đăng ký học phần của học kỳ tiếp theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p020_c001",
+          "score": 0.7639,
+          "page": 20,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Đơn phải nộp về Phòng Kế hoạch - Tài chính trước hạn nộp học phí quy định ít nhất 07 ngày làm việc.\n3. Thời gian gia hạn:\n- Thời gian gia hạn tối đa không quá 60 ngày kể từ ngày hết hạn nộp học phí ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p032_c000",
+          "score": 0.7239,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 32: BỘ TIÊU CHUẨN XÉT CHỌN DANH HIỆU SINH VIÊN 5 TỐT CÁC CẤP\n1. Danh hiệu \"Sinh viên 5 tốt\" là danh hiệu thi đua cao quý của Hội Sinh viên Việt Nam trao tặng hằng năm cho sinh viên đạt đủ 5 tiêu ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.7151,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6845,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7945,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p010_c001",
+          "score": 0.6596,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Sinh viên có học phần đạt điểm D hoặc D+ được phép đăng ký học cải thiện để nâng cao điểm trung bình tích lũy. Điểm từ C trở lên không được phép học cải thiện.\n- Khi học cải thiện, điểm của lần học ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6324,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    }
+  ],
+  "C": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p001_c000",
+          "score": 0.8165,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ĐIỀU 1: QUY TRÌNH TIẾP NHẬN TÂN SINH VIÊN VÀ XÁC NHẬN NHẬP HỌC\n1. Thí sinh trúng tuyển vào các ngành đào tạo đại học chính quy phải thực hiện xác nhận nhập học trực tuyến trên cổng thông tin tuyển sin",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.6782,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "4. Thông tin và thời hạn nộp hồ sơ xin học bổng doanh nghiệp được đăng tải công khai trên website Phòng Công tác Sinh viên trước thời hạn nhận đơn tối thiểu 15 ngày.",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c000",
+          "score": 0.6236,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 8: CÁC GIAI ĐOẠN ĐĂNG KÝ HỌC PHẦN VÀ XỬ LÝ HỦY LỚP HỌC\n1. Việc đăng ký học phần được thực hiện trực tuyến trên cổng thông tin sinh viên theo 3 giai đoạn:\n- Giai đoạn 1 (Đăng ký nguyện vọng): Diễn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.7899,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Sử dụng làm thẻ ngân hàng thanh toán học phí và nhận học bổng từ Nhà trường.\n3. Sinh viên làm mất hoặc hỏng thẻ phải nộp đơn xin cấp lại tại Trung tâm Hỗ trợ Sinh viên. Lệ phí làm lại thẻ là 80.000 ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5207,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.4916,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Học kỳ chính: Sinh viên phải hoàn thành đóng học phí trước tuần thứ 8 của học kỳ.\n- Học kỳ hè: Sinh viên phải hoàn thành đóng học phí trước tuần thứ 2 của học kỳ.\n3. Sinh viên nợ học phí sau thời hạ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p021_c000",
+          "score": 0.8036,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 21: CÁC ĐỐI TƯỢNG ĐƯỢC HƯỞNG CHÍNH SÁCH MIỄN, GIẢM HỌC PHÍ\n1. Đối tượng được miễn 100% học phí bao gồm:\n- Sinh viên là con của liệt sĩ, thương binh nặng, người hưởng chính sách như thương binh có",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.7002,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên theo học các ngành nghệ thuật truyền thống, các chuyên ngành nhã nhạc cung đình, chèo, tuồng, cải lương hoặc các ngành nặng nhọc, độc hại theo danh mục quy định.\n3. Đối tượng được giảm 50%",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p020_c000",
+          "score": 0.6848,
+          "page": 20,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 20: ĐIỀU KIỆN VÀ THỦ TỤC XIN GIA HẠN THỜI GIAN NỘP HỌC PHÍ\n1. Sinh viên có hoàn cảnh kinh tế gia đình đặc biệt khó khăn đột xuất (tai nạn, thiên tai, hỏa hoạn, biến cố gia đình) được phép làm đơn",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8569,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.8476,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7864,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.7197,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.7078,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.6565,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p017_c002",
+          "score": 0.684,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Buộc thôi học: Áp dụng đối với trường hợp thi hộ, nhờ người khác thi hộ, làm bài hộ hoặc nhờ người khác làm bài kiểm tra hộ. Cả người thi hộ và người nhờ thi hộ (nếu là sinh viên của trường) đều bị ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p017_c000",
+          "score": 0.6586,
+          "page": 17,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 17: HÌNH THỨC XỬ LÝ KỶ LUẬT ĐỐI VỚI HÀNH VI GIAN LẬN THI CỬ\n1. Sinh viên vi phạm quy chế trong phòng thi sẽ bị lập biên bản và xử lý kỷ luật theo các mức độ:\n- Khiển trách: Áp dụng đối với thí si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p014_c000",
+          "score": 0.6549,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 14: QUY TRÌNH XIN HOÃN THI CUỐI KỲ VÀ XỬ LÝ CÁC TRƯỜNG HỢP VẮNG THI\n1. Sinh viên có lý do chính đáng bất khả kháng (ốm đau cấp tính phải nằm viện, tai nạn, tang gia tứ thân phụ mẫu) không thể tha",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c000",
+          "score": 0.8208,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 19: CÁCH TÍNH HỌC PHÍ THEO TÍN CHỈ VÀ THỜI HẠN HOÀN THÀNH NGHĨA VỤ HỌC PHÍ\n1. Học phí được tính dựa trên tổng số tín chỉ mà sinh viên đăng ký trong học kỳ nhân với đơn giá của một tín chỉ theo từ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.4332,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên theo học các ngành nghệ thuật truyền thống, các chuyên ngành nhã nhạc cung đình, chèo, tuồng, cải lương hoặc các ngành nặng nhọc, độc hại theo danh mục quy định.\n3. Đối tượng được giảm 50%",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.4207,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p027_c002",
+          "score": 0.764,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Cho đến thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự hoặc không đang trong thời gian bị kỷ luật từ mức đình chỉ học tập trở lên.\n2. Nhà trường tổ chức xét tốt nghiệp chính thức 04 ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p029_c000",
+          "score": 0.6944,
+          "page": 29,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 29: QUY TRÌNH CẤP CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI VÀ NHẬN BẰNG CHÍNH THỨC\n1. Sau khi Hội đồng Xét tốt nghiệp Nhà trường thông qua danh sách và Hiệu trưởng ký Quyết định công nhận tốt nghiệp, sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p006_c002",
+          "score": 0.6835,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. Nhà trường có thể tổ chức thêm 01 học kỳ phụ (học kỳ hè) với thời lượng 5 đến 7 tuần học và 1 tuần thi. Học kỳ hè không bắt buộc, sinh viên tự nguyện đăng ký để học vượt, học lại hoặc cải thiện điể",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p009_c000",
+          "score": 0.8499,
+          "page": 9,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 9: THỜI HẠN VÀ ĐIỀU KIỆN RÚT BỚT HỌC PHẦN ĐÃ ĐĂNG KÝ\n1. Sau khi kết thúc giai đoạn điều chỉnh đăng ký, sinh viên được quyền xin rút học phần nếu cảm thấy không đảm bảo khả năng hoàn thành môn học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p006_c002",
+          "score": 0.7748,
+          "page": 6,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. Nhà trường có thể tổ chức thêm 01 học kỳ phụ (học kỳ hè) với thời lượng 5 đến 7 tuần học và 1 tuần thi. Học kỳ hè không bắt buộc, sinh viên tự nguyện đăng ký để học vượt, học lại hoặc cải thiện điể",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p008_c001",
+          "score": 0.7543,
+          "page": 8,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Giai đoạn 3 (Đăng ký điều chỉnh, thêm/hủy môn): Diễn ra trong 02 tuần đầu tiên của học kỳ chính (01 tuần đầu của học kỳ hè).\n2. Lớp học phần có số lượng sinh viên đăng ký dưới 20 sinh viên (đối với ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p012_c000",
+          "score": 0.6449,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 12: THANG ĐIỂM ĐÁNH GIÁ, CÔNG THỨC TÍNH ĐIỂM HỌC PHẦN VÀ QUY ĐỔI\n1. Điểm tổng kết học phần được tính theo thang điểm 10 (làm tròn đến một chữ số thập phân) theo công thức trọng số:\n- Điểm học phầ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p012_c001",
+          "score": 0.5976,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Từ 8.0 đến 8.4: Điểm B+ (Tương đương 3.5 điểm thang 4 - Xếp loại Giỏi).\n- Từ 7.0 đến 7.9: Điểm B (Tương đương 3.0 điểm thang 4 - Xếp loại Khá).\n- Từ 6.5 đến 6.9: Điểm C+ (Tương đương 2.5 điểm thang ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5864,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Lệ phí phúc khảo là 50.000 VNĐ/bài thi. Nếu sau khi phúc khảo điểm thi thay đổi tăng lên, sinh viên sẽ được hoàn lại 100% lệ phí phúc khảo.\n3. Tổ chức chấm phúc khảo:\n- Trưởng phòng Khảo thí chỉ địn",
+          "is_hit": true
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6903,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p027_c000",
+          "score": 0.6562,
+          "page": 27,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 27: BỘ TIÊU CHUẨN BẮT BUỘC ĐỂ ĐƯỢC CÔNG NHẬN TỐT NGHIỆP ĐẠI HỌC\n1. Sinh viên được công nhận tốt nghiệp và cấp bằng cử nhân/kỹ sư khi hội đủ đồng thời các điều kiện sau:\n- Tích lũy đủ số tín chỉ v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p029_c000",
+          "score": 0.6222,
+          "page": 29,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 29: QUY TRÌNH CẤP CHỨNG NHẬN TỐT NGHIỆP TẠM THỜI VÀ NHẬN BẰNG CHÍNH THỨC\n1. Sau khi Hội đồng Xét tốt nghiệp Nhà trường thông qua danh sách và Hiệu trưởng ký Quyết định công nhận tốt nghiệp, sinh ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.7665,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Sinh viên đã hoàn thành ít nhất 01 năm học (2 học kỳ chính) và không đang trong thời gian bị kỷ luật, không bị cảnh báo học vụ mức 2 hoặc mức 3.\n2. Không cho phép chuyển trường đối với sinh viên năm",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.7161,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p026_c000",
+          "score": 0.7143,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "ĐIỀU 26: MIỄN TRỪ HỌC PHẦN VÀ CÔNG NHẬN CHUYỂN ĐỔI TÍN CHỈ TƯƠNG ĐƯƠNG\n1. Sinh viên đã học và tích lũy các học phần tại cơ sở đào tạo đại học khác hoặc các chương trình đào tạo khác của Nhà trường đượ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.7772,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "4. Khen thưởng và quyền lợi học vụ:\n- Sinh viên đạt giải Nhất, Nhì NCKH cấp Trường được cộng điểm rèn luyện (tương ứng 15 và 10 điểm) và được xem xét thay thế khóa luận tốt nghiệp (tương đương 6 đến 1",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p032_c002",
+          "score": 0.5083,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "2. Quyền lợi: Sinh viên đạt danh hiệu \"Sinh viên 5 tốt\" cấp Trường trở lên được nhận Giấy khen của Hiệu trưởng, tiền thưởng theo quy chế thi đua và được ưu tiên giới thiệu học bổng du học, việc làm tạ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p032_c000",
+          "score": 0.4645,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 32: BỘ TIÊU CHUẨN XÉT CHỌN DANH HIỆU SINH VIÊN 5 TỐT CÁC CẤP\n1. Danh hiệu \"Sinh viên 5 tốt\" là danh hiệu thi đua cao quý của Hội Sinh viên Việt Nam trao tặng hằng năm cho sinh viên đạt đủ 5 tiêu ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7779,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p010_c001",
+          "score": 0.6791,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Sinh viên có học phần đạt điểm D hoặc D+ được phép đăng ký học cải thiện để nâng cao điểm trung bình tích lũy. Điểm từ C trở lên không được phép học cải thiện.\n- Khi học cải thiện, điểm của lần học ",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p031_c000",
+          "score": 0.6738,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 31: KHUNG TIÊU CHÍ VÀ THANG ĐIỂM ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN SINH VIÊN\n1. Điểm rèn luyện (ĐRL) được đánh giá theo thang điểm 100 cho từng học kỳ chính dựa trên 5 tiêu chí:\n- Tiêu chí 1: Đánh giá v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.7682,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Mức 2: Cảnh báo nghiêm trọng khi sinh viên đã bị cảnh báo mức 1 ở kỳ trước mà điểm GPA kỳ này tiếp tục dưới 1.60, hoặc CPA tích lũy dưới 1.80.\n- Mức 3: Cảnh báo mức cao nhất khi sinh viên bị cảnh bá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p015_c000",
+          "score": 0.7127,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 15: CÁC MỨC ĐỘ CẢNH BÁO HỌC VỤ VÀ TIÊU CHÍ ÁP DỤNG\n1. Cảnh báo học vụ được xử lý theo từng học kỳ chính nhằm giúp sinh viên nhận biết tình trạng học tập yếu kém để kịp thời khắc phục. Có 3 mức cả",
+          "is_hit": true
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p016_c000",
+          "score": 0.6338,
+          "page": 16,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 16: CÁC TRƯỜNG HỢP SINH VIÊN BỊ XỬ LÝ BUỘC THÔI HỌC DO HỌC VỤ\n1. Sinh viên bị buộc thôi học nếu thuộc vào một trong các trường hợp sau:\n- Bị cảnh báo học vụ mức 3 liên tiếp trong 02 học kỳ chính.",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c000",
+          "score": 0.8228,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 7: GIỚI HẠN SỐ LƯỢNG TÍN CHỈ ĐĂNG KÝ TRONG TỪNG HỌC KỲ\n1. Sinh viên có học lực bình thường (CPA từ 2.00 trở lên) được đăng ký:\n- Trong mỗi học kỳ chính: tối thiểu 14 tín chỉ và tối đa 24 tín chỉ.",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.7971,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "3. Sinh viên có học lực xuất sắc (CPA từ 3.60 trở lên) và không có môn học nào bị điểm dưới C trong kỳ trước đó được phép đăng ký vượt mức tối đa lên đến 28 tín chỉ trong học kỳ chính sau khi có phê d",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c000",
+          "score": 0.7773,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 30: ĐĂNG KÝ ĐỀ TÀI NGHIÊN CỨU KHOA HỌC VÀ CHÍNH SÁCH KHEN THƯỞNG\n1. Sinh viên từ năm thứ hai trở đi có điểm CPA từ 2.50 trở lên được quyền đăng ký chủ trì hoặc tham gia đề tài Nghiên cứu khoa học",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c000",
+          "score": 0.7872,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "ĐIỀU 22: TIÊU CHUẨN VÀ ĐỊNH MỨC HỌC BỔNG KHUYẾN KHÍCH HỌC TẬP TỪNG HỌC KỲ\n1. Học bổng khuyến khích học tập được xét và cấp theo từng học kỳ chính (không xét cho học kỳ hè) cho sinh viên có kết quả học",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.7726,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Mức học bổng Giỏi: Dành cho sinh viên có điểm GPA từ 3.20 đến 3.59 và điểm ĐRL từ 80 điểm trở lên. Mức học bổng tương đương 105% định mức học phí chuẩn của ngành học.\n- Mức học bổng Khá: Dành cho si",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c002",
+          "score": 0.6608,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Trong học kỳ đó không có học phần nào bị điểm dưới C (dưới 2.0).\n4. Học bổng được xét từ điểm cao xuống thấp cho đến khi hết quỹ học bổng phân bổ cho từng ngành.",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p014_c001",
+          "score": 0.8086,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Học phần được chấp thuận hoãn thi sẽ nhận điểm tạm thời là điểm I (Incomplete).\n- Sinh viên có điểm I phải đăng ký dự thi bù vào đợt thi của học kỳ chính gần nhất tiếp theo có tổ chức thi môn đó.\n- ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p018_c000",
+          "score": 0.7494,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "ĐIỀU 18: TRÌNH TỰ NỘP ĐƠN PHÚC KHẢO VÀ THỜI HẠN CÔNG BỐ ĐIỂM PHÚC KHẢO\n1. Sinh viên có quyền nộp đơn xin phúc khảo điểm thi kết thúc học phần nếu có nghi vấn về kết quả chấm thi.\n2. Trình tự và thủ tụ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p016_c001",
+          "score": 0.6851,
+          "page": 16,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- Phòng Đào tạo lập danh sách dự kiến buộc thôi học và thông báo công khai cho sinh viên trong thời hạn 10 ngày làm việc để khiếu nại hoặc giải trình.\n- Sau thời hạn 10 ngày, Hội đồng Khen thưởng và K",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p032_c000",
+          "score": 0.7239,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "ĐIỀU 32: BỘ TIÊU CHUẨN XÉT CHỌN DANH HIỆU SINH VIÊN 5 TỐT CÁC CẤP\n1. Danh hiệu \"Sinh viên 5 tốt\" là danh hiệu thi đua cao quý của Hội Sinh viên Việt Nam trao tặng hằng năm cho sinh viên đạt đủ 5 tiêu ",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p032_c002",
+          "score": 0.6823,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "2. Quyền lợi: Sinh viên đạt danh hiệu \"Sinh viên 5 tốt\" cấp Trường trở lên được nhận Giấy khen của Hiệu trưởng, tiền thưởng theo quy chế thi đua và được ưu tiên giới thiệu học bổng du học, việc làm tạ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p031_c001",
+          "score": 0.6427,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- Tiêu chí 5: Đánh giá về ý thức và kết quả tham gia phụ trách lớp, đoàn thể, câu lạc bộ hoặc thành tích đặc biệt (tối đa 10 điểm).\n2. Xếp loại rèn luyện theo tổng điểm ĐRL:\n- Từ 90 đến 100 điểm: Loại",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p010_c000",
+          "score": 0.7945,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "ĐIỀU 10: QUY ĐỊNH VỀ HỌC LẠI MÔN BẮT BUỘC VÀ HỌC CẢI THIỆN ĐIỂM SỐ\n1. Học lại (đối với môn bị điểm F):\n- Sinh viên có học phần bắt buộc bị điểm F (dưới 4.0 thang 10 hoặc dưới 1.0 thang 4) bắt buộc phả",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p010_c001",
+          "score": 0.6596,
+          "page": 10,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Sinh viên có học phần đạt điểm D hoặc D+ được phép đăng ký học cải thiện để nâng cao điểm trung bình tích lũy. Điểm từ C trở lên không được phép học cải thiện.\n- Khi học cải thiện, điểm của lần học ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.6324,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Có tổng số tín chỉ của các học phần phải học lại (điểm F) vượt quá 5% tổng số tín chỉ quy định cho toàn bộ chương trình đào tạo.\n- Đã từng bị kỷ luật trong thời gian học từ mức cảnh cáo cấp trường t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    }
+  ]
+}

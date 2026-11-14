@@ -1,0 +1,2636 @@
+{
+  "A": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c002",
+          "score": 0.4738,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ên. L? phí làm l?i\nth? là 80.000 VN? ??i v?i l?n ??u và 150.000 VN? ??i v?i các l?n ti?p theo. Th?i gian c?p l?i th? m?i t? 5\n??n 7 ngày làm vi?c.\n4. Tài kho?n email sinh viên (tên mi?n @student.edu.v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.3953,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.3836,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "? tích h?p thông minh dùng cho các m?c ?ích:\n- ?i?m danh t?i gi?ng ???ng, phòng thí nghi?m và th? vi?n thông qua công ngh? RFID.\n- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": true,
+      "hit_at_3": true,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c002",
+          "score": 0.5367,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ên. L? phí làm l?i\nth? là 80.000 VN? ??i v?i l?n ??u và 150.000 VN? ??i v?i các l?n ti?p theo. Th?i gian c?p l?i th? m?i t? 5\n??n 7 ngày làm vi?c.\n4. Tài kho?n email sinh viên (tên mi?n @student.edu.v",
+          "is_hit": true
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.468,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.4569,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.6339,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5902,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5731,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.6254,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6124,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.6051,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "h ph?i b?ng ho?c cao h?n ?i?m chu?n c?a\nngành d? ki?n chuy?n sang.\n- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.586,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "??i 1.20 ??i v?i h?c k? ??u tiên c?a khóa h?c, ho?c d??i 1.40 ??i v?i các h?c k? ti?p theo; ho?c có t?ng\ns? tín ch? n? ??ng v??t quá 16 tín ch?.\n- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c002",
+          "score": 0.5539,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "??n 3.19 và ?i?m ?RL t? 70 ?i?m tr? lên.\nM?c h?c b?ng t??ng ???ng 100% ??nh m?c h?c phí chu?n c?a ngành h?c.\n3. ?i?u ki?n ràng bu?c v? s? tín ch?:\n- Sinh viên ph?i ??ng ký và hoàn thành t?i thi?u 15 t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.549,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.4867,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "í nghi?m, bài t?p l?n và ?? án môn h?c (n?u h?c ph?n có\nquy ??nh).\n2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.4337,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p024_c002",
+          "score": 0.4259,
+          "page": 24,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "?u gi?y xác nh?n.\n- N?p t?i B? ph?n M?t c?a - Phòng Công tác Sinh viên kèm b?n sao S? h? nghèo/c?n nghèo ho?c minh\nch?ng liên quan.\n- Th?i gian gi?i quy?t và tr? k?t qu? gi?y xác nh?n là 02 ngày làm v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.572,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "h? lý thuy?t; 750.000 VN? /\ntín ch? th?c hành ho?c thí nghi?m.\n- Nhóm ngành K? thu?t ?i?n - ?i?n t? và C? khí: 580.000 VN? / tín ch? lý thuy?t; 680.000 VN? / tín ch?\nth?c hành.\n- Nhóm ngành Kinh t?, Q",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c002",
+          "score": 0.5586,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "ên. L? phí làm l?i\nth? là 80.000 VN? ??i v?i l?n ??u và 150.000 VN? ??i v?i các l?n ti?p theo. Th?i gian c?p l?i th? m?i t? 5\n??n 7 ngày làm vi?c.\n4. Tài kho?n email sinh viên (tên mi?n @student.edu.v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5439,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5461,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5254,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.5197,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "??i 1.20 ??i v?i h?c k? ??u tiên c?a khóa h?c, ho?c d??i 1.40 ??i v?i các h?c k? ti?p theo; ho?c có t?ng\ns? tín ch? n? ??ng v??t quá 16 tín ch?.\n- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.5473,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "??i 1.20 ??i v?i h?c k? ??u tiên c?a khóa h?c, ho?c d??i 1.40 ??i v?i các h?c k? ti?p theo; ho?c có t?ng\ns? tín ch? n? ??ng v??t quá 16 tín ch?.\n- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5459,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p014_c002",
+          "score": 0.5424,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "heo có t? ch?c thi\nmôn ?ó.\n- Sau th?i h?n 01 h?c k? chính ti?p theo, n?u sinh viên không d? thi bù, ?i?m I s? t? ??ng chuy?n thành\n?i?m F.\n4. Sinh viên v?ng thi không có phép ho?c không ???c ch?p thu?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.4968,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "??i 1.20 ??i v?i h?c k? ??u tiên c?a khóa h?c, ho?c d??i 1.40 ??i v?i các h?c k? ti?p theo; ho?c có t?ng\ns? tín ch? n? ??ng v??t quá 16 tín ch?.\n- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p012_c001",
+          "score": 0.4695,
+          "page": 12,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "thi cu?i k? t?i thi?u là 50% và t?i ?a là 70% tùy theo ?? c??ng chi ti?t h?c ph?n.\n2. Quy ??i ?i?m t?ng k?t h?c ph?n t? thang ?i?m 10 sang thang ?i?m ch? và thang ?i?m 4:\n- T? 8.5 ??n 10.0: ?i?m A (T?",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c002",
+          "score": 0.4621,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "??n 3.19 và ?i?m ?RL t? 70 ?i?m tr? lên.\nM?c h?c b?ng t??ng ???ng 100% ??nh m?c h?c phí chu?n c?a ngành h?c.\n3. ?i?u ki?n ràng bu?c v? s? tín ch?:\n- Sinh viên ph?i ??ng ký và hoàn thành t?i thi?u 15 t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.5945,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "g v?n b?n và tr??ng ?ang theo h?c ??ng ý cho chuy?n ?i.\n- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã h",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5816,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "í nghi?m, bài t?p l?n và ?? án môn h?c (n?u h?c ph?n có\nquy ??nh).\n2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.5794,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.6605,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.649,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.6138,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5956,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "c trên c?ng\nthông tin sinh viên. Quá th?i h?n trên, Nhà tr??ng không ti?p nh?n ??n phúc kh?o.\n- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.5814,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5804,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.6319,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "í nghi?m, bài t?p l?n và ?? án môn h?c (n?u h?c ph?n có\nquy ??nh).\n2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.6031,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "g v?n b?n và tr??ng ?ang theo h?c ??ng ý cho chuy?n ?i.\n- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã h",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p001_c003",
+          "score": 0.6018,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "có quy?n h?u ki?m h? s?, ??i chi?u v?n b?ng g?c t?i b?t k? th?i ?i?m nào trong khóa h?c.\nSinh viên có hành vi gian l?n h? s? s? b? bu?c thôi h?c và h?y toàn b? k?t qu? h?c t?p tích l?y.\nMã v·n b·n: QC",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6172,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5776,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.5598,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "??i 1.20 ??i v?i h?c k? ??u tiên c?a khóa h?c, ho?c d??i 1.40 ??i v?i các h?c k? ti?p theo; ho?c có t?ng\ns? tín ch? n? ??ng v??t quá 16 tín ch?.\n- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.661,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6074,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.6061,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "h ph?i b?ng ho?c cao h?n ?i?m chu?n c?a\nngành d? ki?n chuy?n sang.\n- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5592,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.5363,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.4999,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5176,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c002",
+          "score": 0.5116,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "??n 3.19 và ?i?m ?RL t? 70 ?i?m tr? lên.\nM?c h?c b?ng t??ng ???ng 100% ??nh m?c h?c phí chu?n c?a ngành h?c.\n3. ?i?u ki?n ràng bu?c v? s? tín ch?:\n- Sinh viên ph?i ??ng ký và hoàn thành t?i thi?u 15 t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p001_c003",
+          "score": 0.4985,
+          "page": 1,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "có quy?n h?u ki?m h? s?, ??i chi?u v?n b?ng g?c t?i b?t k? th?i ?i?m nào trong khóa h?c.\nSinh viên có hành vi gian l?n h? s? s? b? bu?c thôi h?c và h?y toàn b? k?t qu? h?c t?p tích l?y.\nMã v·n b·n: QC",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6781,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "khuy?n khích h?c t?p:\n- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5963,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "g trình th? hai ph?i khác ngành ?ào t?o ? ch??ng trình th? nh?t.\n- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.5849,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "àn c?nh kinh t? gia ?ình khó kh?n (h? nghèo, c?n\nnghèo) có ?i?m GPA t? 2.50 tr? lên và ?i?m rèn luy?n t? 70 ?i?m tr? lên.\n- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong cá",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "A"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5468,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "í nghi?m, bài t?p l?n và ?? án môn h?c (n?u h?c ph?n có\nquy ??nh).\n2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.5052,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "g v?n b?n và tr??ng ?ang theo h?c ??ng ý cho chuy?n ?i.\n- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã h",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c002",
+          "score": 0.5016,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "m?c c?nh cáo c?p tr??ng tr? lên.\n3. Không h? b?c x?p lo?i ??i v?i sinh viên t?t nghi?p lo?i Khá ho?c Trung bình.\n4. B?ng t?t nghi?p ??i h?c ???c c?p m?t l?n kèm theo Ph? l?c v?n b?ng (B?ng ?i?m chi ti",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "A"
+    }
+  ],
+  "B": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.4213,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "4. Thông tin và th?i h?n n?p h? s? xin h?c b?ng doanh nghi?p ???c ??ng t?i công khai trên website Phòng\nCông tác Sinh viên tr??c th?i h?n nh?n ??n t?i thi?u 15 ngày.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c:",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.4106,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.391,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5483,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5099,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5056,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6377,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.6202,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.6086,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.7228,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.685,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6128,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.5973,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5942,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p003_c001",
+          "score": 0.5818,
+          "page": 3,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "2. Sinh viên không tham gia khám s?c kh?e theo l?ch thông báo mà không có lý do chính ?áng s? b? tr?\n10 ?i?m rèn luy?n c?a h?c k? 1 và b? khóa tài kho?n ??ng ký tín ch? k? ti?p theo cho ??n khi n?p gi",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p003_c001",
+          "score": 0.5326,
+          "page": 3,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "2. Sinh viên không tham gia khám s?c kh?e theo l?ch thông báo mà không có lý do chính ?áng s? b? tr?\n10 ?i?m rèn luy?n c?a h?c k? 1 và b? khóa tài kho?n ??ng ký tín ch? k? ti?p theo cho ??n khi n?p gi",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5003,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.4693,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.6157,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Nhóm ngành K? thu?t ?i?n - ?i?n t? và C? khí: 580.000 VN? / tín ch? lý thuy?t; 680.000 VN? / tín ch?\nth?c hành.\n- Nhóm ngành Kinh t?, Qu?n tr? Kinh doanh và Ngôn ng?: 520.000 VN? / tín ch?.\n2. Th?i ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5367,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5224,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5473,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5195,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5136,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5968,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.5851,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5726,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.443,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh báo m?c 1 ? k? tr??c mà ?i?m GPA k? này ti?p\nt?c d??i 1.60, ho?c CPA tích l?y d??i 1.80.\n- M?c 3: C?nh báo m?c cao nh?t khi sinh viên b? c?nh bá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p031_c002",
+          "score": 0.4428,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "3. Sinh viên b? x?p lo?i rèn luy?n Y?u ho?c Kém trong 02 h?c k? liên ti?p s? b? xem xét t?m d?ng h?c t?p\n01 h?c k? chính.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c: 01/09/2025 | Trang 31/32",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p009_c002",
+          "score": 0.4341,
+          "page": 9,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. H?c ph?n ???c ch?p thu?n rút s? nh?n ?i?m ch? W (Withdrawn) trên b?ng ?i?m. ?i?m W không tính\nvào ?i?m trung bình h?c k? (GPA) và ?i?m trung bình tích l?y (CPA). Sinh viên rút h?c ph?n không ???c\nh",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.651,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.5897,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là ng??i dân t?c thi?u s? r?t ít ng??i ? vùng có ?i?u ki?n kinh t? - xã h?i khó kh?n ho?c ??c bi?t\nkhó kh?n.\n2. ??i t??ng ???c gi?m 70% h?c phí:\n- Sinh viên theo h?c các ngành ngh? thu?t t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5796,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6721,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.665,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.6212,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là ng??i dân t?c thi?u s? r?t ít ng??i ? vùng có ?i?u ki?n kinh t? - xã h?i khó kh?n ho?c ??c bi?t\nkhó kh?n.\n2. ??i t??ng ???c gi?m 70% h?c phí:\n- Sinh viên theo h?c các ngành ngh? thu?t t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p030_c002",
+          "score": 0.6221,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- Nhóm sinh viên có bài báo khoa h?c ???c ch?p nh?n ??ng trên t?p chí thu?c danh m?c Scopus/WoS\n???c Nhà tr??ng th??ng nóng 10.000.000 VN?/bài báo và ?u tiên xét h?c b?ng tài tr? doanh nghi?p.\nMã v·n ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5978,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.5897,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong các cu?c thi h?c thu?t, sáng\nt?o kh?i nghi?p ho?c có bài báo khoa h?c xu?t b?n trên các t?p chí uy tín.\n- H?c b?ng phát tri?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.6473,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.6222,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.6042,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.628,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6164,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.5742,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.7259,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.6797,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6075,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5838,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5029,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.4725,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5468,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.523,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.516,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6913,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.6219,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.6141,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "B"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.5381,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5185,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.4759,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "2. Quy ??nh h? m?t b?c x?p lo?i t?t nghi?p:\nH?ng t?t nghi?p c?a sinh viên có k?t qu? toàn khóa ??t lo?i Xu?t s?c ho?c Gi?i s? b? gi?m ?i m?t b?c (t?\nXu?t s?c xu?ng Gi?i, t? Gi?i xu?ng Khá) n?u vi ph?m",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "B"
+    }
+  ],
+  "C": [
+    {
+      "question_id": "q01",
+      "split": "dev",
+      "question": "Thời hạn xác nhận nhập học trực tuyến trên cổng thông tin tuyển sinh là khi nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 1,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.4213,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "4. Thông tin và th?i h?n n?p h? s? xin h?c b?ng doanh nghi?p ???c ??ng t?i công khai trên website Phòng\nCông tác Sinh viên tr??c th?i h?n nh?n ??n t?i thi?u 15 ngày.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c:",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.4106,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.391,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q02",
+      "split": "dev",
+      "question": "Lệ phí làm lại thẻ sinh viên lần đầu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 2,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.5483,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5099,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5056,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q03",
+      "split": "dev",
+      "question": "Sinh viên khuyết tật nặng hoặc đặc biệt nặng được hưởng mức miễn giảm học phí là bao nhiêu phần trăm?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 21,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6377,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.5778,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là ng??i dân t?c thi?u s? r?t ít ng??i ? vùng có ?i?u ki?n kinh t? - xã h?i khó kh?n ho?c ??c bi?t\nkhó kh?n.\n2. ??i t??ng ???c gi?m 70% h?c phí:\n- Sinh viên theo h?c các ngành ngh? thu?t t",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p024_c001",
+          "score": 0.5538,
+          "page": 24,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là thành viên c?a h? gia ?ình thu?c h? nghèo, h? c?n nghèo theo chu?n quy ??nh c?a Nhà\nn??c.\n- Sinh viên mà gia ?ình g?p khó kh?n v? tài chính do tai n?n, b?nh t?t, thiên tai, h?a ho?n, d?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q04",
+      "split": "dev",
+      "question": "Sinh viên cần đạt điểm CPA bao nhiêu để không bị giới hạn tín chỉ đăng ký trong mỗi kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.7228,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.685,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6128,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q05",
+      "split": "dev",
+      "question": "Điều kiện gì để sinh viên được phép đăng ký tối đa 28 tín chỉ một kỳ?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 7,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.5973,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5942,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p003_c001",
+          "score": 0.5818,
+          "page": 3,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "2. Sinh viên không tham gia khám s?c kh?e theo l?ch thông báo mà không có lý do chính ?áng s? b? tr?\n10 ?i?m rèn luy?n c?a h?c k? 1 và b? khóa tài kho?n ??ng ký tín ch? k? ti?p theo cho ??n khi n?p gi",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q06",
+      "split": "dev",
+      "question": "Có những hành vi gian lận thi cử nào dẫn đến bị buộc thôi học ngay lập tức?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 17,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p003_c001",
+          "score": 0.5326,
+          "page": 3,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "2. Sinh viên không tham gia khám s?c kh?e theo l?ch thông báo mà không có lý do chính ?áng s? b? tr?\n10 ?i?m rèn luy?n c?a h?c k? 1 và b? khóa tài kho?n ??ng ký tín ch? k? ti?p theo cho ??n khi n?p gi",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5003,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.4693,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q07",
+      "split": "dev",
+      "question": "Mức học phí mỗi tín chỉ lý thuyết của ngành Khoa học Máy tính và Công nghệ Thông tin là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 19,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p019_c001",
+          "score": 0.6157,
+          "page": 19,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Nhóm ngành K? thu?t ?i?n - ?i?n t? và C? khí: 580.000 VN? / tín ch? lý thuy?t; 680.000 VN? / tín ch?\nth?c hành.\n- Nhóm ngành Kinh t?, Qu?n tr? Kinh doanh và Ngôn ng?: 520.000 VN? / tín ch?.\n2. Th?i ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5224,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p023_c002",
+          "score": 0.4712,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "4. Thông tin và th?i h?n n?p h? s? xin h?c b?ng doanh nghi?p ???c ??ng t?i công khai trên website Phòng\nCông tác Sinh viên tr??c th?i h?n nh?n ??n t?i thi?u 15 ngày.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c:",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q08",
+      "split": "dev",
+      "question": "Nhà trường tổ chức xét tốt nghiệp mấy đợt mỗi năm và vào tháng nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 27,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5473,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5195,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.5136,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q09",
+      "split": "dev",
+      "question": "Sinh viên được phép rút học phần đến tuần thứ mấy trong học kỳ chính?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 9,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p002_c001",
+          "score": 0.5968,
+          "page": 2,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- Xu?t trình khi tham gia các k? thi gi?a k? và cu?i k?. Thí sinh không có th? sinh viên ho?c gi?y t? tùy\nthân h?p l? có ?nh s? không ???c vào phòng thi.\n- S? d?ng làm th? ngân hàng thanh toán h?c phí",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.5851,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5726,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q10",
+      "split": "dev",
+      "question": "Điểm phúc khảo được công nhận khi chênh lệch bao nhiêu điểm so với điểm chấm ban đầu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 18,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.443,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh báo m?c 1 ? k? tr??c mà ?i?m GPA k? này ti?p\nt?c d??i 1.60, ho?c CPA tích l?y d??i 1.80.\n- M?c 3: C?nh báo m?c cao nh?t khi sinh viên b? c?nh bá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p031_c002",
+          "score": 0.4428,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "3. Sinh viên b? x?p lo?i rèn luy?n Y?u ho?c Kém trong 02 h?c k? liên ti?p s? b? xem xét t?m d?ng h?c t?p\n01 h?c k? chính.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c: 01/09/2025 | Trang 31/32",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p009_c002",
+          "score": 0.4341,
+          "page": 9,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "4. H?c ph?n ???c ch?p thu?n rút s? nh?n ?i?m ch? W (Withdrawn) trên b?ng ?i?m. ?i?m W không tính\nvào ?i?m trung bình h?c k? (GPA) và ?i?m trung bình tích l?y (CPA). Sinh viên rút h?c ph?n không ???c\nh",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q11",
+      "split": "dev",
+      "question": "Sinh viên tốt nghiệp loại Xuất sắc bị hạ hạng xuống Giỏi trong trường hợp nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 28,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.4894,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "2. Quy ??nh h? m?t b?c x?p lo?i t?t nghi?p:\nH?ng t?t nghi?p c?a sinh viên có k?t qu? toàn khóa ??t lo?i Xu?t s?c ho?c Gi?i s? b? gi?m ?i m?t b?c (t?\nXu?t s?c xu?ng Gi?i, t? Gi?i xu?ng Khá) n?u vi ph?m",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p026_c002",
+          "score": 0.4703,
+          "page": 26,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "- Sinh viên có ch?ng ch? qu?c t? h?p l? còn th?i h?n (IELTS t? 5.5 tr? lên, TOEIC 4 k? n?ng t??ng ???ng\nho?c ch?ng ch? MOS, IC3) ???c mi?n h?c và công nh?n ?i?m A (4.0) cho các h?c ph?n ngo?i ng?, tin",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p029_c001",
+          "score": 0.4546,
+          "page": 29,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "2. Gi?y ch?ng nh?n t?t nghi?p t?m th?i có giá tr? pháp lý t??ng ???ng b?ng t?t nghi?p trong th?i h?n 06\ntháng k? t? ngày ký, dùng ?? sinh viên xin vi?c ho?c h?c ti?p lên b?c cao h?c.\n3. B?ng t?t nghi?",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "tot_nghiep_bao_luu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q12",
+      "split": "dev",
+      "question": "Sinh viên từ trường khác chuyển đến phải tích lũy ít nhất bao nhiêu phần trăm tín chỉ tại trường mới để được xét cấp bằng?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 5,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6721,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.665,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.6212,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là ng??i dân t?c thi?u s? r?t ít ng??i ? vùng có ?i?u ki?n kinh t? - xã h?i khó kh?n ho?c ??c bi?t\nkhó kh?n.\n2. ??i t??ng ???c gi?m 70% h?c phí:\n- Sinh viên theo h?c các ngành ngh? thu?t t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q13",
+      "split": "dev",
+      "question": "Sinh viên nhận được bao nhiêu tiền thưởng nóng khi có bài báo đăng trên tạp chí Scopus hoặc WoS?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 30,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p030_c002",
+          "score": 0.6221,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- Nhóm sinh viên có bài báo khoa h?c ???c ch?p nh?n ??ng trên t?p chí thu?c danh m?c Scopus/WoS\n???c Nhà tr??ng th??ng nóng 10.000.000 VN?/bài báo và ?u tiên xét h?c b?ng tài tr? doanh nghi?p.\nMã v·n ",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.4469,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- ?? tài c?p Tr??ng ???c phê duy?t ???c c?p kinh phí h? tr? ban ??u t? 5.000.000 VN? ??n 15.000.000\nVN? tùy thu?c quy mô và d? toán.\n4. Khen th??ng và quy?n l?i h?c v?:\n- Sinh viên ??t gi?i Nh?t, Nhì ",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p031_c002",
+          "score": 0.4305,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "3. Sinh viên b? x?p lo?i rèn luy?n Y?u ho?c Kém trong 02 h?c k? liên ti?p s? b? xem xét t?m d?ng h?c t?p\n01 h?c k? chính.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c: 01/09/2025 | Trang 31/32",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q14",
+      "split": "dev",
+      "question": "Học phần bắt buộc bị điểm F thì sinh viên phải xử lý như thế nào?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.6473,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.6222,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p007_c001",
+          "score": 0.6042,
+          "page": 7,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- Ch? ???c ??ng ký t?i thi?u 10 tín ch? và t?i ?a không quá 14 tín ch? trong m?i h?c k? chính.\n- M?c ?ích nh?m giúp sinh viên t?p trung c?i thi?n các h?c ph?n ?i?m kém và nâng cao k?t qu? h?c t?p.\n3. ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q15",
+      "split": "dev",
+      "question": "Ngưỡng GPA học kỳ bao nhiêu để học phần bị xếp vào cảnh báo học vụ mức 1 trong học kỳ đầu tiên?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 15,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.5607,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh báo m?c 1 ? k? tr??c mà ?i?m GPA k? này ti?p\nt?c d??i 1.60, ho?c CPA tích l?y d??i 1.80.\n- M?c 3: C?nh báo m?c cao nh?t khi sinh viên b? c?nh bá",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5338,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p018_c001",
+          "score": 0.4394,
+          "page": 18,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- ??a ?i?m n?p ??n: Tr?c tuy?n trên c?ng thông tin sinh viên ho?c n?p tr?c ti?p t?i Phòng Kh?o thí và ??m\nb?o ch?t l??ng.\n- L? phí phúc kh?o là 50.000 VN?/bài thi. N?u sau khi phúc kh?o ?i?m thi thay ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q16",
+      "split": "test",
+      "question": "Điều kiện CPA tối thiểu để sinh viên được phép đăng ký học song bằng (chương trình thứ hai) là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 11,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p011_c001",
+          "score": 0.7259,
+          "page": 11,
+          "document_id": "handbook_sv_2025",
+          "section": "chuong_trinh_tin_chi",
+          "text_preview": "- ?i?m trung bình tích l?y CPA c?a ch??ng trình th? nh?t ??t t? 2.50 tr? lên và sinh viên không thu?c di?n\nb? c?nh báo h?c v?.\n2. Sinh viên n?p ??n ??ng ký h?c ch??ng trình th? hai t?i Phòng ?ào t?o v",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p004_c001",
+          "score": 0.6797,
+          "page": 4,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trung bình chung tích l?y (CPA) tính ??n th?i ?i?m n?p ??n ??t t? 2.50 tr? lên trên thang ?i?m 4.0\nvà không b? c?nh báo h?c v?.\n- Ngành d? ki?n chuy?n sang còn ch? tiêu ti?p nh?n sinh viên theo",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.6075,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    },
+    {
+      "question_id": "q17",
+      "split": "test",
+      "question": "Học bổng khuyến khích học tập mức Xuất sắc yêu cầu điểm GPA và điểm rèn luyện tối thiểu là bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 22,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p022_c001",
+          "score": 0.5838,
+          "page": 22,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- M?c h?c b?ng Xu?t s?c: Dành cho sinh viên có ?i?m trung bình h?c k? GPA t? 3.60 tr? lên và ?i?m rèn\nluy?n ?RL t? 90 ?i?m tr? lên. M?c h?c b?ng t??ng ???ng 120% ??nh m?c h?c phí chu?n c?a ngành h?c.\n",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p023_c001",
+          "score": 0.4631,
+          "page": 23,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- H?c b?ng tài n?ng và nghiên c?u: Dành cho sinh viên ??t gi?i th??ng trong các cu?c thi h?c thu?t, sáng\nt?o kh?i nghi?p ho?c có bài báo khoa h?c xu?t b?n trên các t?p chí uy tín.\n- H?c b?ng phát tri?",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p021_c001",
+          "score": 0.4469,
+          "page": 21,
+          "document_id": "handbook_sv_2025",
+          "section": "hoc_phi_hoc_bong",
+          "text_preview": "- Sinh viên là ng??i dân t?c thi?u s? r?t ít ng??i ? vùng có ?i?u ki?n kinh t? - xã h?i khó kh?n ho?c ??c bi?t\nkhó kh?n.\n2. ??i t??ng ???c gi?m 70% h?c phí:\n- Sinh viên theo h?c các ngành ngh? thu?t t",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "hoc_phi_hoc_bong"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q18",
+      "split": "test",
+      "question": "Sinh viên hoãn thi cuối kỳ, điểm tạm thời nhận được là gì và phải thi bù trong thời hạn bao lâu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 14,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.4964,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p014_c002",
+          "score": 0.4829,
+          "page": 14,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "4. Sinh viên v?ng thi không có phép ho?c không ???c ch?p thu?n hoãn thi s? nh?n ?i?m 0 cho k? thi cu?i\nk? và b? tính ?i?m t?ng k?t theo công th?c quy ??nh.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c: 01/09/202",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p015_c001",
+          "score": 0.4784,
+          "page": 15,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "- M?c 2: C?nh báo nghiêm tr?ng khi sinh viên ?ã b? c?nh báo m?c 1 ? k? tr??c mà ?i?m GPA k? này ti?p\nt?c d??i 1.60, ho?c CPA tích l?y d??i 1.80.\n- M?c 3: C?nh báo m?c cao nh?t khi sinh viên b? c?nh bá",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "danh_gia_hoc_vu"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q19",
+      "split": "test",
+      "question": "Sinh viên được xếp loại Sinh viên 5 tốt về tiêu chuẩn Học tập tốt cần đạt GPA bao nhiêu?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 32,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p032_c001",
+          "score": 0.464,
+          "page": 32,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- H?c t?p t?t: ?i?m trung bình h?c t?p GPA n?m h?c ??t t? 3.20/4.0 tr? lên (ho?c t? 3.40 ??i v?i c?p\nT?nh/Thành ph?); tham gia ít nh?t 01 ?? tài NCKH ho?c cu?c thi h?c thu?t chuyên ngành.\n- Th? l?c t?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p031_c002",
+          "score": 0.4552,
+          "page": 31,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "3. Sinh viên b? x?p lo?i rèn luy?n Y?u ho?c Kém trong 02 h?c k? liên ti?p s? b? xem xét t?m d?ng h?c t?p\n01 h?c k? chính.\nMã v·n b·n: QC-DT-2025 | Hi·u l·c: 01/09/2025 | Trang 31/32",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p030_c001",
+          "score": 0.426,
+          "page": 30,
+          "document_id": "handbook_sv_2025",
+          "section": "nckh_ngoai_khoa",
+          "text_preview": "- ?? tài c?p Tr??ng ???c phê duy?t ???c c?p kinh phí h? tr? ban ??u t? 5.000.000 VN? ??n 15.000.000\nVN? tùy thu?c quy mô và d? toán.\n4. Khen th??ng và quy?n l?i h?c v?:\n- Sinh viên ??t gi?i Nh?t, Nhì ",
+          "is_hit": false
+        }
+      ],
+      "filter_used": {
+        "section": "nckh_ngoai_khoa"
+      },
+      "strategy": "C"
+    },
+    {
+      "question_id": "q20",
+      "split": "test",
+      "question": "Học phần tự chọn bị điểm F có bắt buộc học lại đúng môn đó không?",
+      "gold_source_id": "handbook_sv_2025",
+      "gold_page": 10,
+      "hit_at_1": false,
+      "hit_at_3": false,
+      "top_3_hits": [
+        {
+          "rank": 1,
+          "chunk_id": "handbook_sv_2025_p005_c001",
+          "score": 0.5381,
+          "page": 5,
+          "document_id": "handbook_sv_2025",
+          "section": "tuyen_sinh_nhap_hoc",
+          "text_preview": "- ?i?m trúng tuy?n c?a sinh viên không th?p h?n ?i?m chu?n c?a ngành t??ng ?ng t?i tr??ng chuy?n ??n\ntrong cùng n?m tuy?n sinh.\n- Sinh viên ?ã hoàn thành ít nh?t 01 n?m h?c (2 h?c k? chính) và không ?",
+          "is_hit": false
+        },
+        {
+          "rank": 2,
+          "chunk_id": "handbook_sv_2025_p013_c001",
+          "score": 0.5185,
+          "page": 13,
+          "document_id": "handbook_sv_2025",
+          "section": "danh_gia_hoc_vu",
+          "text_preview": "2. Sinh viên v?ng m?t quá 20% t?ng s? gi? gi?ng lý thuy?t (dù có phép hay không phép) s? b? c?m thi k?t\nthúc h?c ph?n ?ó và nh?n ?i?m F cho h?c ph?n. Gi?ng viên ph? trách có trách nhi?m công b? danh s",
+          "is_hit": false
+        },
+        {
+          "rank": 3,
+          "chunk_id": "handbook_sv_2025_p028_c001",
+          "score": 0.4759,
+          "page": 28,
+          "document_id": "handbook_sv_2025",
+          "section": "tot_nghiep_bao_luu",
+          "text_preview": "2. Quy ??nh h? m?t b?c x?p lo?i t?t nghi?p:\nH?ng t?t nghi?p c?a sinh viên có k?t qu? toàn khóa ??t lo?i Xu?t s?c ho?c Gi?i s? b? gi?m ?i m?t b?c (t?\nXu?t s?c xu?ng Gi?i, t? Gi?i xu?ng Khá) n?u vi ph?m",
+          "is_hit": false
+        }
+      ],
+      "filter_used": null,
+      "strategy": "C"
+    }
+  ]
+}
